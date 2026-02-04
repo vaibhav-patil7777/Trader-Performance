@@ -1,5 +1,5 @@
 # Trader Performance vs Market Sentiment  
-**Data Science Intern – Round-0 Assignment | Primetrade.ai**
+
 
 ---
 
@@ -62,4 +62,5 @@ The objective of this assignment is to analyze how market sentiment (Fear/Greed)
 1. Clone this repository:  
 ```bash
 git clone https://github.com/vaibhav-patil7777/Trader-Performance
+
 

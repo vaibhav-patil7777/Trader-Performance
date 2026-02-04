@@ -4,7 +4,6 @@
 ---
 
 ## Overview
-This repository contains the solution to the Round-0 assignment for the Data Science Intern role at Primetrade.ai.  
 The objective of this assignment is to analyze how market sentiment (Fear/Greed) relates to trader behavior and performance on Hyperliquid. Insights from this analysis can inform smarter trading strategies.
 
 ---
@@ -62,5 +61,6 @@ The objective of this assignment is to analyze how market sentiment (Fear/Greed)
 1. Clone this repository:  
 ```bash
 git clone https://github.com/vaibhav-patil7777/Trader-Performance
+
 
 

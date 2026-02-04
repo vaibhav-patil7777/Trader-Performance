@@ -61,4 +61,5 @@ The objective of this assignment is to analyze how market sentiment (Fear/Greed)
 ## How to Run
 1. Clone this repository:  
 ```bash
-git clone [Your GitHub Repo Link]
+git clone https://github.com/vaibhav-patil7777/Trader-Performance
+
